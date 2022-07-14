@@ -1,0 +1,4 @@
+#|
+$JSON
+{"authURL":["ai2.appinventor.mit.edu"],"YaVersion":"216","Source":"Form","Properties":{"$Name":"Screen3","$Type":"Form","$Version":"30","AppName":"Zavrsni_v7","Title":"Podatci","Uuid":"0","$Components":[{"$Name":"Battery","$Type":"Label","$Version":"5","FontSize":"24.0","Text":"Battery: ","Uuid":"507164450"},{"$Name":"Memory","$Type":"Label","$Version":"5","FontSize":"24.0","Text":"Memory: ","Uuid":"-275105129"},{"$Name":"RSSI","$Type":"Label","$Version":"5","FontSize":"24.0","Text":"RSSI: ","Uuid":"1280882060"},{"$Name":"BluetoothLE1","$Type":"BluetoothLE","$Version":"20200828","Uuid":"-1578522763"}]}}
+|#

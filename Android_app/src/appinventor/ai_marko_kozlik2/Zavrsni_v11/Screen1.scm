@@ -1,0 +1,4 @@
+#|
+$JSON
+{"authURL":["ai2.appinventor.mit.edu"],"YaVersion":"216","Source":"Form","Properties":{"$Name":"Screen1","$Type":"Form","$Version":"30","AppName":"Zavrsni_v11","Title":"WatchPlant","Uuid":"0","$Components":[{"$Name":"Scanning","$Type":"Label","$Version":"5","FontSize":"20.0","Text":"Not scanning","Uuid":"100485494"},{"$Name":"Scan","$Type":"Button","$Version":"7","FontSize":"20.0","Text":"Button scan","Uuid":"-563086019"},{"$Name":"Label1","$Type":"Label","$Version":"5","FontSize":"20.0","Text":"Text for Label1","Uuid":"-1072268707"},{"$Name":"BluetoothLE1","$Type":"BluetoothLE","$Version":"20200828","Uuid":"-1166413078"},{"$Name":"Notify_v31","$Type":"Notify_v3","$Version":"3","Uuid":"1434074124"}]}}
+|#

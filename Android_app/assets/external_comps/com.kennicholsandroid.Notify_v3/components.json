@@ -1,0 +1,89 @@
+[{
+ "categoryString": "EXTENSION",
+ "nonVisible": "true",
+ "iconName": "aiwebres/icon.png",
+ "methods": [
+  {
+   "deprecated": "false",
+   "name": "Build",
+   "description": "Build Notification",
+   "params": [
+    {
+     "name": "icon",
+     "type": "text"
+    },
+    {
+     "name": "color",
+     "type": "any"
+    },
+    {
+     "name": "title",
+     "type": "text"
+    },
+    {
+     "name": "text",
+     "type": "text"
+    },
+    {
+     "name": "numberID",
+     "type": "number"
+    },
+    {
+     "name": "showWhen",
+     "type": "boolean"
+    },
+    {
+     "name": "autoCancel",
+     "type": "boolean"
+    },
+    {
+     "name": "startValue",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "deprecated": "false",
+   "name": "CancelAllNotifications",
+   "description": "Cancels All Notifications",
+   "params": []
+  },
+  {
+   "deprecated": "false",
+   "name": "CancelNotification",
+   "description": "Cancels a Notification based on numberID",
+   "params": [{
+    "name": "numberID",
+    "type": "number"
+   }]
+  },
+  {
+   "deprecated": "false",
+   "name": "MoveTaskToBackground",
+   "description": "Moves App to background",
+   "params": []
+  }
+ ],
+ "blockProperties": [{
+  "rw": "read-write",
+  "deprecated": "false",
+  "name": "LargeIcon",
+  "description": "",
+  "type": "text"
+ }],
+ "helpUrl": "",
+ "type": "com.kennicholsandroid.Notify_v3.Notify_v3",
+ "androidMinSdk": 16,
+ "version": "3",
+ "external": "true",
+ "showOnPalette": "true",
+ "name": "Notify_v3",
+ "helpString": "Notify Extension developed by Ken Nichols & Andres Cotes.<br><br>Check Out Ken's favorite<br>App Inventor distribution<br>AppyBuilder <a href='http://AppyBuilder.com' target='_blank'>http://AppyBuilder.com<\/a>",
+ "properties": [{
+  "defaultValue": "",
+  "name": "LargeIcon",
+  "editorArgs": [],
+  "editorType": "asset"
+ }],
+ "events": []
+}]
